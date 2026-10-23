@@ -1,0 +1,22 @@
+
+
+{
+  "locations": [
+    { "name": "Woodlands", "latitude": 1.4390577, "longitude": 103.7864685, "region": "North", "mapX": 37, "mapY": 18 },
+    { "name": "Mandai ", "latitude": 1.4240420, "longitude": 103.8043213, "region": "North", "mapX": 38, "mapY": 29 },
+    { "name": "Yishun", "latitude": 1.4253451, "longitude": 103.8394099, "region": "North", "mapX": 50, "mapY": 21.0 },
+    { "name": "Sembawang ", "latitude": 1.4466084, "longitude": 103.8170242, "region": "North", "mapX": 45, "mapY": 18 },
+    { "name": "Punggol ", "latitude": 1.4050792, "longitude": 103.9028549, "region": "North", "mapX": 60, "mapY": 29},
+    { "name": "Sengkang ", "latitude": 1.3907617, "longitude": 103.8963800, "region": "North", "mapX": 58, "mapY": 33 },
+    { "name": "Changi ", "latitude": 1.3494984, "longitude": 103.9979553, "region": "East", "mapX": 80, "mapY": 45 },
+    { "name": "Tampines ", "latitude": 1.3549686, "longitude": 103.9502335, "region": "East", "mapX": 70, "mapY": 43 },
+    { "name": "Pasir Ris ", "latitude": 1.3731579, "longitude": 103.9492556, "region": "East", "mapX": 70, "mapY": 38 },
+    { "name": "Paya Lebar ", "latitude": 1.3299934, "longitude": 103.8902271, "region": "East", "mapX": 62.9, "mapY": 44.9 },
+    { "name": "Orchard", "latitude": 1.3009527, "longitude": 103.8394529, "region": "Central", "mapX": 47, "mapY": 50 },
+    { "name": "Lim Chu Kang", "latitude": 1.4311637, "longitude": 103.7116241, "region": "West", "mapX": 22, "mapY": 24 },
+    { "name": "Sentosa", "latitude": 1.2477079, "longitude": 103.8272381, "region": "South", "mapX": 47, "mapY": 70 },
+    { "name": "Jurong Island", "latitude": 1.2729360, "longitude": 103.6999512, "region": "West", "mapX": 19, "mapY": 65 },
+    { "name": "Tuas", "latitude": 1.2882111, "longitude": 103.6338756, "region": "West", "mapX": 8, "mapY": 62 },
+    { "name": "Boon Lay", "latitude": 1.3128674, "longitude": 103.7001952, "region": "West", "mapX": 22, "mapY": 52 }
+  ]
+}
